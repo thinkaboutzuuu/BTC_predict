@@ -6,3 +6,6 @@ The Daytrade.py is where its proper to run the code, and it's the one that works
 Jupyter notebook files are used to train and test the models 
 Updated til Jan 16th 24, so the predicted value is the predicted price for Jan 17th 24 ONLY.
 
+Data downloaded from Yahoo Finance: https://finance.yahoo.com/quote/BTC-USD/history?p=BTC-USD 
+
+
